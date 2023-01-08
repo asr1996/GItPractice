@@ -1,2 +1,2 @@
 # GItPractice
-Simple file to practice commit in Git
+Simple file to practice commit in Git !
